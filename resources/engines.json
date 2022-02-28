@@ -1,0 +1,58 @@
+{
+    "ask": {
+        "url": "https://www.ask.com/web?q={}",
+        "urlMain": "https://www.ask.com/"
+    },
+    "aol": {
+        "url": "https://search.aol.com/aol/search?q={}",
+        "urlMain": "https://search.aol.com/"
+    },
+    "bing": {
+        "url": "https://www.bing.com/search?q={}",
+        "urlMain": "https://www.bing.com/"
+    },
+    "duckduckgo": {
+        "url": "https://duckduckgo.com/?q={}",
+        "urlMain": "https://duckduckgo.com/"
+    },
+    "dogpile": {
+        "url": "https://www.dogpile.com/serp?q={}",
+        "urlMain": "https://www.dogpile.com/"
+    },
+    "google": {
+        "url": "https://www.google.com/search?q={}",
+        "urlMain": "https://www.google.com/"
+    },
+    "search": {
+        "url": "https://www.search.com/web?q={}",
+        "urlMain": "https://www.search.com/"
+    },
+    "info": {
+        "url": "https://www.info.com/serp?q={}",
+        "urlMain": "https://www.info.com/"
+    },
+    "lycos": {
+        "url": "https://search.lycos.com/web/?q={}",
+        "urlMain": "https://search.lycos.com/"
+    },
+    "excite": {
+        "url": "https://results.excite.com/serp?q={}",
+        "urlMain": "https://results.excite.com/"
+    },
+    "hotbot": {
+        "url": "https://search.hotbot.com/web?q={}",
+        "urlMain": "https://search.hotbot.com/"
+    },
+    "webcrawler": {
+        "url": "https://www.webcrawler.com/serp?q={}",
+        "urlMain": "https://www.webcrawler.com/"
+    },
+    "yahoo": {
+        "url": "https://search.yahoo.com/search?p={}",
+        "urlMain": "https://search.yahoo.com/"
+    },
+    "yandex": {
+        "url": "https://yandex.com/search/?text={}",
+        "urlMain": "https://yandex.com/"
+    }
+}
